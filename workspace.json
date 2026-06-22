@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "829c1e86c059715b",
+        "id": "bfdf67d8eace23df",
         "type": "tabs",
         "children": [
           {
-            "id": "0b49d3469f74fd02",
+            "id": "d9868e69c0c617c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,10 +212,11 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "0b49d3469f74fd02",
+  "active": "d9868e69c0c617c0",
   "lastOpenFiles": [
-    "math/math.md",
+    "math/Chapter 2 (Reasoning and Proofs).md",
     "Home Dashboard.md",
+    "math/math.md",
     "math/Chapter 1 (Basics of Geometry).md",
     "history/Indigenous America.md",
     "images/Pasted image 20260622131603.jpg",
@@ -233,7 +234,6 @@
     "math/Postulate.md",
     "math/co-planar.md",
     "math/Chapter 3 (Parallel and Perpendicular Lines).md",
-    "math/Chapter 2 (Reasoning and Proofs).md",
     "math",
     "images/Pasted image 20260619131537.png",
     "images/Pasted image 20260616094957.png",
