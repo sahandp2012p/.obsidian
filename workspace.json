@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "31c09ce59c3c60ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "829c1e86c059715b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b49d3469f74fd02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ffe7c1cb1b80119",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f63a4b4a59e55d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "407f97682ce80382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "015ab77d9d61e3f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d905a1cdd61358e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06b50441fcb43b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5459a779c37b830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db9adf6f5a092571",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c38ae6f92b782dbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home Dashboard"
+            }
+          },
+          {
+            "id": "c3f8caa49c7c93eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home Dashboard"
+            }
+          },
+          {
+            "id": "a7c605c14b2e998f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0223c2b2405e5494",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "04c523487ab0880e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home Dashboard"
+            }
+          }
+        ]
+      },
+      {
+        "id": "877f768941a7d67a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9be880f20579f85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
+    }
+  },
+  "active": "0b49d3469f74fd02",
+  "lastOpenFiles": [
+    "math/math.md",
+    "Home Dashboard.md",
+    "math/Chapter 1 (Basics of Geometry).md",
+    "history/Indigenous America.md",
+    "images/Pasted image 20260622131603.jpg",
+    "english/theme.md",
+    "english/Supporting an inference with logical reasoning and evidence .md",
+    "english/Analyzing central ideas.md",
+    "english/central idea.md",
+    "Untitled.md",
+    "english/Citing Evidence in literary analysis.md",
+    "images/Pasted image 20260622114118.png",
+    "math/Chapter 5 (Congruent Triangles).md",
+    "Vault.md",
+    "math/Corollary.md",
+    "math/Theorem.md",
+    "math/Postulate.md",
+    "math/co-planar.md",
+    "math/Chapter 3 (Parallel and Perpendicular Lines).md",
+    "math/Chapter 2 (Reasoning and Proofs).md",
+    "math",
+    "images/Pasted image 20260619131537.png",
+    "images/Pasted image 20260616094957.png",
+    "images/Pasted image 20260617131345.png",
+    "images/Pasted image 20260617094744.png",
+    "images/Pasted image 20260615134946.png",
+    "images",
+    "history",
+    "fun stuff",
+    "english/Determining the theme of a story.md",
+    "english/Relationships between ideas.md",
+    "english/Analyzing dialogues and plot.md",
+    "english",
+    "thumbnails/resized/4784cf577f4bd9ad17e3506f91e9ce8b_86cf658e.webp",
+    "thumbnails/resized",
+    "thumbnails"
+  ]
+}
